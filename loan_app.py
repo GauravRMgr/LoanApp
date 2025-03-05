@@ -1,3 +1,5 @@
+# create a folder naming LoanApp ad add the file with the code
+
 import sys
 import sqlite3
 from PyQt5 import QtWidgets, QtCore, QtGui
